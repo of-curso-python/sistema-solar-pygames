@@ -1,0 +1,8 @@
+[Activity]
+name = JuegoSistemaSolar
+activity_version = 1
+bundle_id = cursopython.JuegoSistemaSolar
+exec = sugar-activity activity.JuegoSistemaSolarActivity
+icon = sistema-solar.svg
+licence = GPLv3+
+
